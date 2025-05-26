@@ -70,6 +70,8 @@ rookie-directors
   - Please contact me for the raw data files if you wish to run this project. Requests from only authorised people will be processed over private and secure channels.
   - This project is a work in progress.
 
+---
+
 ## Getting Started
 Ensure you have `pandas`, `scipy`, `numpy`, `sklearn`, `statsmodels`, and `matplotlib` installed.
 
