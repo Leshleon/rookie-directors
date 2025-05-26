@@ -1,9 +1,9 @@
-# 🧑‍💼 Rookie Directors & Market Reaction
+# Rookie Directors & Market Reaction
 This project explores the market reaction to the appointment of rookie directors using event studies and statistical analysis in Python. The project encapsulates multiple levels of data wrangling and transformation before conducting analysis, to get a better view of certain necessary characteristics of existing or generated data points.
 
 ---
 
-## 🔍 Objectives
+## Objectives
 - Transform director level data to output important variables like skills, past directorships, closing balance of directorships, etc.
 - Use PCA (PRinciple Component Analysis) to generate General Ability Index of Directors based on skills, experience, etc.
 - Tranform the above outputs to extract firm level board chareacteristics.
@@ -11,7 +11,7 @@ This project explores the market reaction to the appointment of rookie directors
 
 ---
 
-## ⚙️ Methodology Overview
+## Methodology Overview
 Each step in this project is clearly separated as sub folders within the root. This is to maintain efficiency and exit points for data extraction and inference whenever needed.
 1. **Director level data wrangling and transformation**
    - Merge and clean director and firm-level data.
@@ -30,7 +30,7 @@ Each step in this project is clearly separated as sub folders within the root. T
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 rookie-directors
@@ -62,14 +62,15 @@ rookie-directors
 
 ```
 
-## 🔒 Archives, OBS and Data Confidentiality
+## 🔒 Important Notes
 
   - [0] OBS folders contain older version of files from their current directory, and can be safely ignored.
   - [0] Archive folder contains older version of high level project tasks mentioned in the root directory, and can be safely ignored.
   - `.pkl`, `.txt`, `.csv`, `.pdf`, have been ignored via `.gitignore` to preserve the confidentiality of the data files used.
   - Please contact me for the raw data files if you wish to run this project. Requests from only authorised people will be processed over private and secure channels.
+  - This project is a work in progress.
 
-## 🚀 Getting Started
+## Getting Started
 Ensure you have `pandas`, `scipy`, `numpy`, `sklearn`, `statsmodels`, and `matplotlib` installed.
 
 ```bash
@@ -80,14 +81,14 @@ Note: Actual data files will be required to run notebooks.
 
 ---
 
-📬 Contact
+## Contact
 Please find below my contact information. While I am wary of sharing raw files, I would be glad to have discussions where I can.
 
-Shivam S
-Email: shivam.s@learner.manipal.edu
-GitHub: github.com/Leshleon
+**Shivam S**
+- Email: shivam.s@learner.manipal.edu
+- GitHub: github.com/Leshleon
 
 ---
 
-## 🧠 Keywords
+## Keywords
 event study, finance, CAPM, Fama-French, rookie directors, PSM, Python, financial markets, data wrangling, corporate governance, statistical analysis
